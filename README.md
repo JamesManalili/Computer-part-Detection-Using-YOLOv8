@@ -4,6 +4,11 @@ _Presented in International Conference on Information Technology and Education (
 This project explores the performance of YOLOv8 (You Only Look Once, version 8) in detecting various computer components such as CPUs, GPUs, RAM sticks, and motherboards. The experiment involves training a custom object detection model using Ultralytics' YOLOv8 framework and evaluating its accuracy in real-world scenarios.
 
 The research findings were presented at the International Conference on Information Technology and Education (ICITE), where it was accepted and recognized for its contribution to the field of machine learning and computer vision.
+
+## 🌐 Live Demo
+
+Simple integration with react + flask web app 👉👉 [Visit the Website](https://detect-computer-parts.vercel.app/)
+
 ## 🚀 Setup and Installation
 __1. Clone the Repository__
 
