@@ -12,8 +12,8 @@ Simple integration with react + flask web app 👉👉 [Visit the Website](https
 ## 🚀 Setup and Installation
 __1. Clone the Repository__
 
-    git clone <your-repo-link>
-    cd <your-repo-folder>
+    git clone https://github.com/JamesManalili/Computer-part-Detection-Using-YOLOv8.git
+    cd Computer-part-Detection-Using-YOLOv8
 
 __2. Install Dependencies__
 
