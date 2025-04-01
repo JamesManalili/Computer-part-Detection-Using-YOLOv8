@@ -49,6 +49,11 @@ The trained YOLOv8 model achieved outstanding performance in detecting computer 
 
 ✅ Recall: 96.2%
 
+__Normalized Confusion Matrix__
+
+![confusion_matrix_normalized](https://github.com/user-attachments/assets/4ac663dc-7de5-4dc5-9a08-428ccd0cbc17)
+
+
 ## 🏆 Achievements
 
 ✔ Paper Accepted at ICITE (International Conference on Information Technology and Education) – [Read Here]()
