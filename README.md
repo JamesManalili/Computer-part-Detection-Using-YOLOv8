@@ -5,6 +5,9 @@ This project explores the performance of YOLOv8 (You Only Look Once, version 8) 
 
 The research findings were presented at the International Conference on Information Technology and Education (ICITE), where it was accepted and recognized for its contribution to the field of machine learning and computer vision.
 
+[View Certificates](https://drive.google.com/drive/folders/1c9Wqwp7W7dkEyLt6n5cwpl-uVb9JhAi2?usp=sharing)
+
+
 ## 🌐 Live Demo
 
 Simple integration with react + flask web app 👉👉 [Visit the Website](https://detect-computer-parts.vercel.app/)
@@ -60,6 +63,6 @@ __Normalized Confusion Matrix__
 
 ✔ Presented at SolBridge International School of Business, South Korea
 
-✔ Received 4 Certificates of Recognition – [View Certificates]()
+✔ Received 4 Certificates of Recognition – [View Certificates](https://drive.google.com/drive/folders/1c9Wqwp7W7dkEyLt6n5cwpl-uVb9JhAi2?usp=sharing)
 
 
